@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+        <link type="text/css" rel="stylesheet" href="common/css/af.ui.css"/>
+        <link type="text/css" rel="stylesheet" href="common/css/icons.css"/>
+        <link type="text/css" rel="stylesheet" href="common/css/base.css"/>
+        <link type="text/css" rel="stylesheet" href="common/css/fontello.css"/>
+        <script type="text/javascript" src="common/js/appframework.js"></script>
+        <script type="text/javascript" src="common/js/ui/appframework.ui.js"></script>
+        <script type="text/javascript" src="common/js/common.js"></script>
+        <title>香道佳</title>
+    </head>
+    <body>
+        <div id="afui" class="ios7">
+            <div id="content">
+                <!--导入页-->
+                <div id="leader" class="panel" selected="true"  data-footer="none" data-header="none">
+                    <script type="text/javascript">
+                       //定时跳转
+                       setTimeout(function(){
+                           $.ui.loadContent("#home", false, false, "pop");
+                       },2000)
+                    </script>
+                </div>
+
+                <!--主页-->
+                <div id="home" class="panel" title="主页" data-footer="footer-common" data-tab="nav-home"
+                     data-header="header-common">
+                </div>
+
+                <!--分类-->
+                <div id="category" class="panel" title="分类" data-footer="footer-common" data-tab="nav-category"
+                     data-header="header-common">
+                    category
+                </div>
+
+                <!--购物车-->
+                <div id="cart" class="panel" title="我的购物车" data-footer="footer-common" data-tab="nav-cart"
+                     data-header="header-common">
+                    cart
+                </div>
+
+                <!--我的账户-->
+                <div id="count" class="panel" data-defer="html/user.html" data-footer="footer-common"
+                     data-tab="nav-count">
+                </div>
+
+                <!--登录-->
+                <div id="login" class="panel" title="登录" data-footer="footer-common"
+                     data-tab="nav-count"  data-header="header-common">
+                    <br/>
+                    <form id="loginForm">
+                        <input type="text" placeholder="用户名" name="username"/>
+                        <input type="text" placeholder="密码" name="password"/>
+                        <input type="button" class="button block" id="loginBtn" value="登录"
+                               style="width:100%;margin:0 auto; border-radius: 5px;"/>
+                    </form>
+                    <script type="text/javascript">
+                        $(function(){
+                            //登录模块
+
+                        });
+                    </script>
+                </div>
+
+                <!--注册-->
+                <div id="register" class="panel" title="注册" data-footer="footer-common"
+                     data-tab="nav-count"  data-header="header-common">
+                    count
+                </div>
+
+                <!--头部-->
+                <header id="header-common">
+                    <h1>香道佳</h1>
+                </header>
+
+                <!--底部-->
+                <footer id="footer-common">
+                    <a href="#home" id="nav-home" class="icon home">主页</a>
+                    <a href="#category" id="nav-category" class="icon category">品类</a>
+                    <a href="#cart" id="nav-cart" class="icon basket">购物车</a>
+                    <a href="#count" id="nav-count" class="icon user">我的账户</a>
+                </footer>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+#afui #leader {
+  background: #fbf3be url('../img/leader.jpg') center center no-repeat;
+}
+.category:before {
+  font-family: 'fontello';
+  content: '\e800';
+}
