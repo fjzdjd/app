@@ -6,30 +6,39 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/.gitignore" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421320366870" ignored="false" />
     <file path="/config.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421567466696" ignored="false" />
-    <file path="/index.html" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421568341118" ignored="false" />
+    <file path="/index.html" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421752717641" ignored="false" />
     <file path="/index.js" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421414884604" ignored="false" />
-    <file path="/base.less" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421407247950" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/android/res/xml/config.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421570674338" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/android/res/values/strings.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421570674338" ignored="false" />
-    <file path="/user.html" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421473543884" ignored="false" />
+    <file path="/base.less" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421751617387" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/res/xml/config.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421758104301" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/res/values/strings.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421758104301" ignored="false" />
+    <file path="/user.html" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421757130122" ignored="false" />
     <file path="$PROJECT_DIR$/platforms/android/assets/www/js/index.js" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421414707170" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/android/assets/www/config.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421570674338" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/config.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421758104301" ignored="false" />
     <file path="$PROJECT_DIR$/platforms/android/assets/www/index.html" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421472017576" ignored="false" />
     <file path="$PROJECT_DIR$/platforms/android/assets/www/cordova.js" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421472017576" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/afui.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421473532277" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/afui.less" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421473532277" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/main.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421473532277" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/icons.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421473532277" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/flex.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421473532277" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/af.ui.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421473532277" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/afui.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421754033715" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/afui.less" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421754033715" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/main.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421754033715" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/icons.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421754033715" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/flex.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421754033715" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/af.ui.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421754033715" ignored="false" />
     <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/ios7.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421473168815" ignored="false" />
     <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/win8.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421473532277" ignored="false" />
     <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/bb.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421473168815" ignored="false" />
     <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/ios.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421473168815" ignored="false" />
     <file path="/fis-conf.js" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421570279460" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/android/CordovaLib/ant-build/AndroidManifest.cordova.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421549843760" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/android/ant-build/AndroidManifest.cordova.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421549843760" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/android/CordovaLib/build.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421549843760" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/CordovaLib/ant-build/AndroidManifest.cordova.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421757572537" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/ant-build/AndroidManifest.cordova.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421757572537" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/CordovaLib/build.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421757572537" ignored="false" />
+    <file path="/user.less" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421753971017" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/user/css/user.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421668409726" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/user/css/user.less" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421669126873" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/base.less" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421752585207" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421758104301" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/android.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421752585207" ignored="false" />
+    <file path="/common.js" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421753300972" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/common/css/appframework.css" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421754033715" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/build.xml" changelist="a7c7d2ad-6140-43e1-8553-e376830a275b" time="1421757572537" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +58,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="77" selection-start="2375" selection-end="2375" vertical-scroll-proportion="0.3420739">
+            <state line="25" column="43" selection-start="1464" selection-end="1475" vertical-scroll-proportion="-14.709678">
               <folding>
                 <element signature="n#style#0;n#input#2;n#form#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/user/html/user.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="69" selection-start="161" selection-end="161" vertical-scroll-proportion="-2.3225806">
+              <folding>
+                <element signature="n#style#0;n#a#0;n#header#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/common/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="36" selection-start="121" selection-end="121" vertical-scroll-proportion="0.19354838">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/user/css/user.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="32" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/common/css/base.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="20" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,14 +119,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/www/css/base.less" />
-        <option value="$PROJECT_DIR$/www/html/user.html" />
         <option value="$PROJECT_DIR$/www/html/login.html" />
         <option value="$PROJECT_DIR$/www/html/register.html" />
         <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/www/home/home.html" />
-        <option value="$PROJECT_DIR$/www/user/html/user.html" />
         <option value="$PROJECT_DIR$/fis-conf.js" />
         <option value="$PROJECT_DIR$/www/fis-conf.js" />
         <option value="$PROJECT_DIR$/config.xml" />
@@ -85,7 +130,11 @@
         <option value="$PROJECT_DIR$/resource/config.xml" />
         <option value="$PROJECT_DIR$/resource/fis-conf.js" />
         <option value="$PROJECT_DIR$/resource/index.html" />
+        <option value="$PROJECT_DIR$/www/common/css/base.less" />
         <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/user/css/user.less" />
+        <option value="$PROJECT_DIR$/www/user/html/user.html" />
+        <option value="$PROJECT_DIR$/www/common/js/common.js" />
       </list>
     </option>
   </component>
@@ -154,6 +203,64 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -215,14 +322,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14407684" sideWeight="0.67001116" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14727855" sideWeight="0.67001116" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -298,6 +405,54 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/user/html/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="73" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/user/css/user.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="21" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/common/css/base.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="41" selection-start="2446" selection-end="2446" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/user/html/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="73" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/user/css/user.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="36" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://F:/资料/appframework-2.1.0/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-66.6707" />
@@ -317,11 +472,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/common/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/user/css/user.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="1" selection-start="169" selection-end="169" vertical-scroll-proportion="-0.9907834">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/common/css/base.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="20" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/user/css/user.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="32" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="77" selection-start="2375" selection-end="2375" vertical-scroll-proportion="0.3420739">
+        <state line="25" column="43" selection-start="1464" selection-end="1475" vertical-scroll-proportion="-14.709678">
           <folding>
             <element signature="n#style#0;n#input#2;n#form#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/user/html/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="69" selection-start="161" selection-end="161" vertical-scroll-proportion="-2.3225806">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/common/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="36" selection-start="121" selection-end="121" vertical-scroll-proportion="0.19354838">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>

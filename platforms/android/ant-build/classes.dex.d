@@ -1,4 +1,11 @@
 f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes.dex : \
+f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\dev\xiangdaojia\cn\BuildConfig.class \
+f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\dev\xiangdaojia\cn\CordovaApp.class \
+f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\dev\xiangdaojia\cn\R$attr.class \
+f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\dev\xiangdaojia\cn\R$drawable.class \
+f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\dev\xiangdaojia\cn\R$string.class \
+f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\dev\xiangdaojia\cn\R$xml.class \
+f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\dev\xiangdaojia\cn\R.class \
 f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\dev\xiangdaojia\com\BuildConfig.class \
 f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\dev\xiangdaojia\com\CordovaApp.class \
 f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\dev\xiangdaojia\com\R$attr.class \

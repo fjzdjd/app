@@ -103,9 +103,16 @@ f:\xiangdaojiafile\code\app\platforms\android\assets\www\common\plugins\css\af.p
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\common\plugins\css\af.scroller.css \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\common\plugins\css\af.selectBox.css \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\common\plugins\css\tabs.css \
-f:\xiangdaojiafile\code\app\platforms\android\assets\www\home\home.html \
+f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\css \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\html \
+f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\img \
+f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\js \
+f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\css\user.css \
+f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\css\user.less \
+f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\html\home.html \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\html\login.html \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\html\register.html \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\html\user.html \
+f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\img\banner.jpg \
+f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\img\photo.jpg \
 f:\xiangdaojiafile\code\app\platforms\android\ant-build\AndroidManifest.xml \

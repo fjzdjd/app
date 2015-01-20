@@ -24,7 +24,7 @@
                        //定时跳转
                        setTimeout(function(){
                            $.ui.loadContent("#home", false, false, "pop");
-                       },2000)
+                       },1000)
                     </script>
                 </div>
 
@@ -46,7 +46,7 @@
                 </div>
 
                 <!--我的账户-->
-                <div id="count" class="panel" data-defer="html/user.html" data-footer="footer-common"
+                <div id="user" class="panel" data-defer="user/html/user.html" data-footer="footer-common"
                      data-tab="nav-count">
                 </div>
 
@@ -60,12 +60,6 @@
                         <input type="button" class="button block" id="loginBtn" value="登录"
                                style="width:100%;margin:0 auto; border-radius: 5px;"/>
                     </form>
-                    <script type="text/javascript">
-                        $(function(){
-                            //登录模块
-
-                        });
-                    </script>
                 </div>
 
                 <!--注册-->
@@ -84,7 +78,7 @@
                     <a href="#home" id="nav-home" class="icon home">主页</a>
                     <a href="#category" id="nav-category" class="icon category">品类</a>
                     <a href="#cart" id="nav-cart" class="icon basket">购物车</a>
-                    <a href="#count" id="nav-count" class="icon user">我的账户</a>
+                    <a href="#user" id="nav-count" class="icon user">我的菜园</a>
                 </footer>
             </div>
         </div>

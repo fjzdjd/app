@@ -1,0 +1,76 @@
+#user {
+  padding: 0;
+}
+#user .banner {
+  position: relative;
+  height: 150px;
+  background: url(../img/banner.jpg) center center no-repeat;
+  margin: 0 -20px 0 -10px;
+  padding: 10px 20px 0 10px;
+}
+#user .banner .photo {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  border-width: 4px;
+  border-style: solid;
+  margin: 0 auto;
+  border-color: rgba(255, 255, 255, 0.4);
+  overflow: hidden;
+}
+#user .banner .photo img {
+  width: 100%;
+  height: 100%;
+  border-radius: 30px;
+}
+#user .banner p {
+  margin: 0;
+  text-align: center;
+}
+#user .banner .username {
+  margin-bottom: 5px;
+  color: #bbb;
+}
+#user .banner ul {
+  text-align: center;
+  width: 100%;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.2);
+  position: absolute;
+  padding: 5px 0;
+  left: 0;
+  bottom: 0;
+}
+#user .banner ul li {
+  width: 32%;
+  display: inline-block;
+  position: relative;
+  padding: 0;
+}
+#user .banner ul li a {
+  display: block;
+  width: 80%;
+  height: 36px;
+  margin: 2px auto;
+  color: #fff;
+}
+#user .banner ul li a .key,
+#user .banner ul li a .value {
+  margin: 0;
+}
+#user .banner ul li a:focus {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+#user .banner ul li .line {
+  display: inline-block;
+  height: 18px;
+  position: absolute;
+  right: 0;
+  margin-left: 1px;
+  top: 10px;
+  width: 0;
+  border-right: 1px solid #ccc;
+}
+a:focus {
+  background-color: #ccc;
+}

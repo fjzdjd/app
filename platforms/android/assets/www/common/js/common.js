@@ -5,6 +5,7 @@
 (function(){
     $(function(){
         //app入口
+        $.ui.animateHeaders = false;
         var app = {
             init:function(){//初始化
                 this.bindEvent();
@@ -33,5 +34,6 @@
             }
         }
         login.init();
+
     });
 })();
