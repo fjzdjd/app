@@ -18,7 +18,7 @@
     <body>
         <div id="afui" class="ios7">
             <div id="content">
-                <!--导入页-->
+                <!--导入页
                 <div id="leader" class="panel" selected="true"  data-footer="none" data-header="none">
                     <script type="text/javascript">
                        //定时跳转
@@ -26,10 +26,10 @@
                            $.ui.loadContent("#home", false, false, "pop");
                        },1000)
                     </script>
-                </div>
+                </div>-->
 
                 <!--主页-->
-                <div id="home" class="panel" title="主页" data-footer="footer-common" data-tab="nav-home"
+                <div id="home" class="panel" title="主页" selected="true" data-footer="footer-common" data-tab="nav-home"
                      data-header="header-common">
                 </div>
 
@@ -47,7 +47,7 @@
 
                 <!--我的账户-->
                 <div id="user" class="panel" data-defer="user/html/user.html" data-footer="footer-common"
-                     data-tab="nav-count">
+                     data-tab="nav-count" data-load="userLoad" data-unload="unuserLoad">
                 </div>
 
                 <!--登录-->
@@ -55,8 +55,8 @@
                      data-tab="nav-count"  data-header="header-common">
                     <br/>
                     <form id="loginForm">
-                        <input type="text" placeholder="用户名" name="username"/>
-                        <input type="text" placeholder="密码" name="password"/>
+                        <input type="text" placeholder="用户名" name="username" id="username"/>
+                        <input type="password" placeholder="密码" name="password" id="password"/>
                         <input type="button" class="button block" id="loginBtn" value="登录"
                                style="width:100%;margin:0 auto; border-radius: 5px;"/>
                     </form>

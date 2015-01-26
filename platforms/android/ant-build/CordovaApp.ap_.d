@@ -37,6 +37,7 @@ f:\xiangdaojiafile\code\app\platforms\android\assets\www\cordova.js \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\cordova_plugins.js \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\home \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\index.html \
+f:\xiangdaojiafile\code\app\platforms\android\assets\www\plugins \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\user \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\common\css \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\common\font \
@@ -103,6 +104,9 @@ f:\xiangdaojiafile\code\app\platforms\android\assets\www\common\plugins\css\af.p
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\common\plugins\css\af.scroller.css \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\common\plugins\css\af.selectBox.css \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\common\plugins\css\tabs.css \
+f:\xiangdaojiafile\code\app\platforms\android\assets\www\plugins\org.apache.cordova.device \
+f:\xiangdaojiafile\code\app\platforms\android\assets\www\plugins\org.apache.cordova.device\www \
+f:\xiangdaojiafile\code\app\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\css \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\html \
 f:\xiangdaojiafile\code\app\platforms\android\assets\www\user\img \

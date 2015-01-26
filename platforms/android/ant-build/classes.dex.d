@@ -20,4 +20,5 @@ f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\io\cordova\hello
 f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\io\cordova\hellocordova\R$string.class \
 f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\io\cordova\hellocordova\R$xml.class \
 f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\io\cordova\hellocordova\R.class \
+f:\xiangdaojiafile\code\app\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
 f:\xiangdaojiafile\code\app\platforms\android\ant-build\dexedLibs\classes-1f8b9e6a49f91a8fc91197ae467a1654.jar \
